@@ -1,0 +1,2 @@
+# Food-app
+A food order app is a web application that allows users to order food from restaurants. A typical food order app would have a user-friendly interface that allows users to browse restaurants, view menus, and customise orders.
