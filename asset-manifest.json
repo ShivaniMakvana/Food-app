@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ShivaniMakvana/Food-app/static/css/main.3bec0e22.chunk.css",
+    "main.js": "/ShivaniMakvana/Food-app/static/js/main.e174a1d8.chunk.js",
+    "main.js.map": "/ShivaniMakvana/Food-app/static/js/main.e174a1d8.chunk.js.map",
+    "runtime-main.js": "/ShivaniMakvana/Food-app/static/js/runtime-main.64d271ec.js",
+    "runtime-main.js.map": "/ShivaniMakvana/Food-app/static/js/runtime-main.64d271ec.js.map",
+    "static/js/2.65834463.chunk.js": "/ShivaniMakvana/Food-app/static/js/2.65834463.chunk.js",
+    "static/js/2.65834463.chunk.js.map": "/ShivaniMakvana/Food-app/static/js/2.65834463.chunk.js.map",
+    "index.html": "/ShivaniMakvana/Food-app/index.html",
+    "static/css/main.3bec0e22.chunk.css.map": "/ShivaniMakvana/Food-app/static/css/main.3bec0e22.chunk.css.map",
+    "static/js/2.65834463.chunk.js.LICENSE.txt": "/ShivaniMakvana/Food-app/static/js/2.65834463.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/ShivaniMakvana/Food-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64d271ec.js",
+    "static/js/2.65834463.chunk.js",
+    "static/css/main.3bec0e22.chunk.css",
+    "static/js/main.e174a1d8.chunk.js"
+  ]
+}
